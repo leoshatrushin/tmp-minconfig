@@ -19,6 +19,7 @@ return {
                                 previous_signature = "<C-m>",
                                 next_signature = "<C-k>",
                             },
+                            display_automatically = true
                         })
                     end
                 end,
